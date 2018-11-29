@@ -1,0 +1,23 @@
+{
+  "name": "codemirror-mode-stata",
+  "version": "0.1.0",
+  "description": "A CodeMirror mode for Stata",
+  "keywords": [
+    "codemirror",
+    "stata",
+    "mode"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "url": "git@github.com:kylebarron/codemirror-mode-stata.git",
+    "type": "git"
+  },
+  "author": "Kyle Barron <kylebarron2@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "codemirror": "^5.20.2"
+  },
+  "devDependencies": {
+    "codemirror": "^5.41.0"
+  }
+}
